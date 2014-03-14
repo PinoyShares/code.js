@@ -1,0 +1,3 @@
+code
+====
+for java scripts
